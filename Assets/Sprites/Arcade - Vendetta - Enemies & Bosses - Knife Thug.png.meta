@@ -1,0 +1,2602 @@
+fileFormatVersion: 2
+guid: e5e85271e39e50e42b553e7056fa72c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6460086709069710279
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_0
+  - first:
+      213: 5669004208084053179
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_1
+  - first:
+      213: -1313689451489568205
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_2
+  - first:
+      213: 2832976546129736484
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_3
+  - first:
+      213: -4102403240079991465
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_4
+  - first:
+      213: 857930812128568102
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_5
+  - first:
+      213: 7405166120041803799
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_6
+  - first:
+      213: 6440948824214536138
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_7
+  - first:
+      213: -835116524339555869
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_8
+  - first:
+      213: 4806974544639086
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_9
+  - first:
+      213: 6468132762408074629
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_10
+  - first:
+      213: 6638663579038940231
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_11
+  - first:
+      213: -1410098371080062927
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_12
+  - first:
+      213: 7843827749460657582
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_13
+  - first:
+      213: -4628124566319453272
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_14
+  - first:
+      213: -1736267673487130713
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_15
+  - first:
+      213: 849506343310844242
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_16
+  - first:
+      213: 8281574383492996387
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_17
+  - first:
+      213: 5041528417955455956
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_18
+  - first:
+      213: 391897385949515512
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_19
+  - first:
+      213: -1478239152055516214
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_20
+  - first:
+      213: -3595213423977368600
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_21
+  - first:
+      213: 6749649491668579783
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_22
+  - first:
+      213: 4897750311178873415
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_23
+  - first:
+      213: -8244039440817155520
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_24
+  - first:
+      213: -2457335937768410118
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_25
+  - first:
+      213: -4903280238647089812
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_26
+  - first:
+      213: 2908326343717175526
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_27
+  - first:
+      213: -3736039734105620288
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_28
+  - first:
+      213: 5122553425192721598
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_29
+  - first:
+      213: 5750066085142008295
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_30
+  - first:
+      213: 6125725873089282947
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_31
+  - first:
+      213: -1992821018396677945
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_32
+  - first:
+      213: 7216145952049451493
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_33
+  - first:
+      213: 1750707830113908715
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_34
+  - first:
+      213: -5779525277603419334
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_35
+  - first:
+      213: 1852780200426270120
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_36
+  - first:
+      213: -3137150307460033288
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_37
+  - first:
+      213: -5344586791302007194
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_38
+  - first:
+      213: -3608507418584951977
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_39
+  - first:
+      213: -1674146074053450268
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_40
+  - first:
+      213: 6885923252287159006
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_41
+  - first:
+      213: -7098130083865626083
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_42
+  - first:
+      213: 1149209221100990596
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_43
+  - first:
+      213: 6255274308028833423
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_44
+  - first:
+      213: 7063260968241039021
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_45
+  - first:
+      213: -1173733024355994345
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_46
+  - first:
+      213: -2703170286979640583
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_47
+  - first:
+      213: -2642574516462029431
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_48
+  - first:
+      213: -2842411974944655574
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_49
+  - first:
+      213: -4712962918539302108
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_50
+  - first:
+      213: 7680727989245983639
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_51
+  - first:
+      213: -4635059151040139824
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_52
+  - first:
+      213: 6390443073509099556
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_53
+  - first:
+      213: -8653218653668871108
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_54
+  - first:
+      213: 6374391225265000514
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_55
+  - first:
+      213: 8638615901492579872
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_56
+  - first:
+      213: 4749397558166671392
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_57
+  - first:
+      213: 76839848461358057
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_58
+  - first:
+      213: -3393755385355476240
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_59
+  - first:
+      213: -8527848064453232995
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_60
+  - first:
+      213: -6110076427213113350
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_61
+  - first:
+      213: 1662562589131431215
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_62
+  - first:
+      213: 474834907617166671
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_63
+  - first:
+      213: 3821317837994716281
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_64
+  - first:
+      213: 3319801234718505426
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_65
+  - first:
+      213: -5363418530586045213
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_66
+  - first:
+      213: 5885781356653143054
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_67
+  - first:
+      213: -244184947689202210
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_68
+  - first:
+      213: -3503691846017589127
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_69
+  - first:
+      213: -2316612543623596697
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_70
+  - first:
+      213: 6072443926153576410
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_71
+  - first:
+      213: -866613318468911418
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_72
+  - first:
+      213: -2538360520259323710
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_73
+  - first:
+      213: -8193429816438829580
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_74
+  - first:
+      213: -4309884079939861044
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_75
+  - first:
+      213: 732911649639833097
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_76
+  - first:
+      213: 8906933903782804183
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_77
+  - first:
+      213: 4313645979014959517
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_78
+  - first:
+      213: -6786037617674975148
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_79
+  - first:
+      213: 6956133002800190900
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_80
+  - first:
+      213: 8966131228892770324
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_81
+  - first:
+      213: 3570167708503294889
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_82
+  - first:
+      213: -5793019239202024238
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_83
+  - first:
+      213: 4704105487435096724
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_84
+  - first:
+      213: 4069924140232443385
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_85
+  - first:
+      213: 6649495592444517120
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_86
+  - first:
+      213: 2068551621773272243
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_87
+  - first:
+      213: 3142472186880132473
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_88
+  - first:
+      213: 2093450079383714822
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_89
+  - first:
+      213: -146670841925721248
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_90
+  - first:
+      213: 664846269818156392
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_91
+  - first:
+      213: 4401635965297285836
+    second: Arcade - Vendetta - Enemies & Bosses - Knife Thug_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 694
+        width: 46
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c7da77d592956a0800000000000000
+      internalID: -6460086709069710279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 694
+        width: 49
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc6b05aa495cae40800000000000000
+      internalID: 5669004208084053179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 694
+        width: 33
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a59c27766d4cde0800000000000000
+      internalID: -1313689451489568205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 693
+        width: 39
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4237311b821c05720800000000000000
+      internalID: 2832976546129736484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 694
+        width: 41
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dde951df55117c0800000000000000
+      internalID: -4102403240079991465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 694
+        width: 42
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62329c2378bf7eb00800000000000000
+      internalID: 857930812128568102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 694
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71079d71a5f64c660800000000000000
+      internalID: 7405166120041803799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 694
+        width: 48
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff6cb74d8d26950800000000000000
+      internalID: 6440948824214536138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 685
+        width: 46
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e19eac12f11964f0800000000000000
+      internalID: -835116524339555869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 685
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e647d2afae3111000800000000000000
+      internalID: 4806974544639086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 685
+        width: 63
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d366f4a7c63c950800000000000000
+      internalID: 6468132762408074629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_11
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 685
+        width: 39
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c70fb1a55412c50800000000000000
+      internalID: 6638663579038940231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 604
+        width: 47
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1387a65a0035e6ce0800000000000000
+      internalID: -1410098371080062927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 604
+        width: 47
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea544fd97cfdadc60800000000000000
+      internalID: 7843827749460657582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 604
+        width: 40
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab25405a3995cfb0800000000000000
+      internalID: -4628124566319453272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 603
+        width: 41
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af3ec600c987e7e0800000000000000
+      internalID: -1736267673487130713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 603
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251eb73b48d0acb00800000000000000
+      internalID: 849506343310844242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 604
+        width: 43
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d131d26001ee270800000000000000
+      internalID: 8281574383492996387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 604
+        width: 44
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3a54d826b17f540800000000000000
+      internalID: 5041528417955455956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 604
+        width: 46
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fecced989c407500800000000000000
+      internalID: 391897385949515512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_20
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 585
+        width: 46
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac308a0c25d3c7be0800000000000000
+      internalID: -1478239152055516214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_21
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 584
+        width: 52
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3fc1c607c3b1ec0800000000000000
+      internalID: -3595213423977368600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_22
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 585
+        width: 53
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c53d4593729bad50800000000000000
+      internalID: 6749649491668579783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_23
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 585
+        width: 39
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a206865fd48f340800000000000000
+      internalID: 4897750311178873415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 514
+        width: 45
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04298cfaec9479d80800000000000000
+      internalID: -8244039440817155520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 514
+        width: 47
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3338febf9c5edd0800000000000000
+      internalID: -2457335937768410118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 514
+        width: 40
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c656f350a9c04fbb0800000000000000
+      internalID: -4903280238647089812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 514
+        width: 41
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e04c2096637c5820800000000000000
+      internalID: 2908326343717175526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 514
+        width: 41
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c3edf7abe62cc0800000000000000
+      internalID: -3736039734105620288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 514
+        width: 43
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc92932337f61740800000000000000
+      internalID: 5122553425192721598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 513
+        width: 44
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e119e7a3a65ccf40800000000000000
+      internalID: 5750066085142008295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 514
+        width: 46
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38308e0e933f20550800000000000000
+      internalID: 6125725873089282947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_32
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 483
+        width: 46
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a88997d31854e0800000000000000
+      internalID: -1992821018396677945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 483
+        width: 56
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1d747b286e42460800000000000000
+      internalID: 7216145952049451493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_34
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 483
+        width: 56
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be73f6fee73cb4810800000000000000
+      internalID: 1750707830113908715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_35
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 483
+        width: 39
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bae0a91600bcfa0800000000000000
+      internalID: -5779525277603419334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 408
+        width: 32
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ade84d96c566b910800000000000000
+      internalID: 1852780200426270120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 408
+        width: 30
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f456dcaa6a9674d0800000000000000
+      internalID: -3137150307460033288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 408
+        width: 31
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666f23151a634d5b0800000000000000
+      internalID: -5344586791302007194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 408
+        width: 30
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d1e91f910cedc0800000000000000
+      internalID: -3608507418584951977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 408
+        width: 32
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5ede1040d34c8e0800000000000000
+      internalID: -1674146074053450268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 409
+        width: 36
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edabd2bf6b6bf8f50800000000000000
+      internalID: 6885923252287159006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 409
+        width: 59
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1afca5db406e7d90800000000000000
+      internalID: -7098130083865626083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_43
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 409
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480f354a2bfc2ff00800000000000000
+      internalID: 1149209221100990596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_44
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 382
+        width: 46
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9fae57d23fc650800000000000000
+      internalID: 6255274308028833423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_45
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 381
+        width: 52
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da683e78d6eb50260800000000000000
+      internalID: 7063260968241039021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_46
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 382
+        width: 56
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715bd16780016bfe0800000000000000
+      internalID: -1173733024355994345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_47
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 382
+        width: 39
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2103d22f86c7ad0800000000000000
+      internalID: -2703170286979640583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 307
+        width: 31
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985f7cd6a70b35bd0800000000000000
+      internalID: -2642574516462029431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 308
+        width: 26
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a277b185e59bd88d0800000000000000
+      internalID: -2842411974944655574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 308
+        width: 58
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b60e82231389eb0800000000000000
+      internalID: -4712962918539302108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 72
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b3867796d679a60800000000000000
+      internalID: 7680727989245983639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_52
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 308
+        width: 74
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd245d7246fcafb0800000000000000
+      internalID: -4635059151040139824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_53
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 307
+        width: 80
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4288dd90e1a6fa850800000000000000
+      internalID: 6390443073509099556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_54
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 308
+        width: 80
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3478403b7799e780800000000000000
+      internalID: -8653218653668871108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_55
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 307
+        width: 55
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2409941eb03667850800000000000000
+      internalID: 6374391225265000514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_56
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 306
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e818f946782e770800000000000000
+      internalID: 8638615901492579872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 307
+        width: 32
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020d1af6aef39e140800000000000000
+      internalID: 4749397558166671392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_58
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 307
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e352206f6df01100800000000000000
+      internalID: 76839848461358057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 215
+        width: 47
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f261593575f6e0d0800000000000000
+      internalID: -3393755385355476240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 215
+        width: 64
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9633cb2e5ff6a980800000000000000
+      internalID: -8527848064453232995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_61
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 215
+        width: 54
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7797dacd5a43ba0800000000000000
+      internalID: -6110076427213113350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_62
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 215
+        width: 70
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d580ebddb921710800000000000000
+      internalID: 1662562589131431215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_63
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 214
+        width: 78
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f450a7b25d3f69600800000000000000
+      internalID: 474834907617166671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_64
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 215
+        width: 69
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ce983d35c080530800000000000000
+      internalID: 3821317837994716281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_65
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 214
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9bc4842ad421e20800000000000000
+      internalID: 3319801234718505426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_66
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 215
+        width: 32
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4dba6534f4195b0800000000000000
+      internalID: -5363418530586045213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_67
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 215
+        width: 32
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e046deca5fe7ea150800000000000000
+      internalID: 5885781356653143054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_68
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 215
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edddc75751b7c9cf0800000000000000
+      internalID: -244184947689202210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_69
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 114
+        width: 30
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97060b354d2606fc0800000000000000
+      internalID: -3503691846017589127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 114
+        width: 32
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f91f5a2db9dfd0800000000000000
+      internalID: -2316612543623596697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_71
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 114
+        width: 57
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfbcd0e397a54450800000000000000
+      internalID: 6072443926153576410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_72
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 114
+        width: 30
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceb90347cb29f3f0800000000000000
+      internalID: -866613318468911418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 113
+        width: 26
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8311e3e8ee5ccd0800000000000000
+      internalID: -2538360520259323710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 114
+        width: 47
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc11b1ef61b4e80800000000000000
+      internalID: -8193429816438829580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_75
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 114
+        width: 70
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c21893473034c0800000000000000
+      internalID: -4309884079939861044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 60
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e17802343db2a00800000000000000
+      internalID: 732911649639833097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_77
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 118
+        width: 47
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da7bdcc139cb9b70800000000000000
+      internalID: 8906933903782804183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_78
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 113
+        width: 32
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d919af9c9262ddb30800000000000000
+      internalID: 4313645979014959517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_79
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 114
+        width: 39
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4588b0e9db623d1a0800000000000000
+      internalID: -6786037617674975148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_80
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 113
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d6426c16298060800000000000000
+      internalID: 6956133002800190900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_81
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 114
+        width: 43
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410b0bb19d81e6c70800000000000000
+      internalID: 8966131228892770324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_82
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 32
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3c8e58d98cb8130800000000000000
+      internalID: 3570167708503294889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 32
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d41c56d1bf0b9fa0800000000000000
+      internalID: -5793019239202024238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 34
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492e8847407584140800000000000000
+      internalID: 4704105487435096724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_85
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2
+        width: 31
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5875131764b7830800000000000000
+      internalID: 4069924140232443385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_86
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3
+        width: 27
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5e23c201c74c50800000000000000
+      internalID: 6649495592444517120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 31
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4aa578db8f4bc10800000000000000
+      internalID: 2068551621773272243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_88
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2
+        width: 60
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975098fedcd4c9b20800000000000000
+      internalID: 3142472186880132473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_89
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2
+        width: 39
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cfda071cd6d0d10800000000000000
+      internalID: 2093450079383714822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2
+        width: 47
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0632c1875abe6fdf0800000000000000
+      internalID: -146670841925721248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_91
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3
+        width: 37
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86531cee8220a3900800000000000000
+      internalID: 664846269818156392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Vendetta - Enemies & Bosses - Knife Thug_92
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3
+        width: 32
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccad02ee690c51d30800000000000000
+      internalID: 4401635965297285836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ac9b40691e74b9f4cbab4fcbf0778151
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_0: -6460086709069710279
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_1: 5669004208084053179
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_10: 6468132762408074629
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_11: 6638663579038940231
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_12: -1410098371080062927
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_13: 7843827749460657582
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_14: -4628124566319453272
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_15: -1736267673487130713
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_16: 849506343310844242
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_17: 8281574383492996387
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_18: 5041528417955455956
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_19: 391897385949515512
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_2: -1313689451489568205
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_20: -1478239152055516214
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_21: -3595213423977368600
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_22: 6749649491668579783
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_23: 4897750311178873415
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_24: -8244039440817155520
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_25: -2457335937768410118
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_26: -4903280238647089812
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_27: 2908326343717175526
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_28: -3736039734105620288
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_29: 5122553425192721598
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_3: 2832976546129736484
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_30: 5750066085142008295
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_31: 6125725873089282947
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_32: -1992821018396677945
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_33: 7216145952049451493
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_34: 1750707830113908715
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_35: -5779525277603419334
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_36: 1852780200426270120
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_37: -3137150307460033288
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_38: -5344586791302007194
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_39: -3608507418584951977
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_4: -4102403240079991465
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_40: -1674146074053450268
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_41: 6885923252287159006
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_42: -7098130083865626083
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_43: 1149209221100990596
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_44: 6255274308028833423
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_45: 7063260968241039021
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_46: -1173733024355994345
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_47: -2703170286979640583
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_48: -2642574516462029431
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_49: -2842411974944655574
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_5: 857930812128568102
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_50: -4712962918539302108
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_51: 7680727989245983639
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_52: -4635059151040139824
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_53: 6390443073509099556
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_54: -8653218653668871108
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_55: 6374391225265000514
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_56: 8638615901492579872
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_57: 4749397558166671392
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_58: 76839848461358057
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_59: -3393755385355476240
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_6: 7405166120041803799
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_60: -8527848064453232995
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_61: -6110076427213113350
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_62: 1662562589131431215
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_63: 474834907617166671
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_64: 3821317837994716281
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_65: 3319801234718505426
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_66: -5363418530586045213
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_67: 5885781356653143054
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_68: -244184947689202210
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_69: -3503691846017589127
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_7: 6440948824214536138
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_70: -2316612543623596697
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_71: 6072443926153576410
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_72: -866613318468911418
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_73: -2538360520259323710
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_74: -8193429816438829580
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_75: -4309884079939861044
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_76: 732911649639833097
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_77: 8906933903782804183
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_78: 4313645979014959517
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_79: -6786037617674975148
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_8: -835116524339555869
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_80: 6956133002800190900
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_81: 8966131228892770324
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_82: 3570167708503294889
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_83: -5793019239202024238
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_84: 4704105487435096724
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_85: 4069924140232443385
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_86: 6649495592444517120
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_87: 2068551621773272243
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_88: 3142472186880132473
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_89: 2093450079383714822
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_9: 4806974544639086
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_90: -146670841925721248
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_91: 664846269818156392
+      Arcade - Vendetta - Enemies & Bosses - Knife Thug_92: 4401635965297285836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
